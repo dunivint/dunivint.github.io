@@ -4,9 +4,10 @@ title: CV
 permalink: /CV/
 ---
 
-## Taylor Dunivin
+<p align=center><b>
+  <font size="+5">Education</font>
 
-__Education__
+<p align=left><br>
 Michigan State University, East Lansing, Michigan			                                               2014-Present
 Graduate program in Microbiology and Molecular Genetics
 Graduate program in Environmental and Integrative Toxicological Sciences
