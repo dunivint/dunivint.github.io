@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Bio
-permalink: /about/
+permalink: /Bio/
 ---
 
 <img src="{{ site.baseurl }}/assets/dunivin.png" title="Profile Picture" class="profile">
