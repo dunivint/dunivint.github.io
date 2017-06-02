@@ -7,18 +7,18 @@ exclude:
   - "/vendor/"
 
 # Site settings
-title: EDAMAME
-subtitle: "Explorations in Data Analyses for Metagenomic Advances in Microbial Ecology (EDAMAME) Workshop"
-email: edamame.course@gmail.com
-name: EDAMAME
+title: Taylor Dunivin
+subtitle: "PhD Candidate at Michigan State University"
+email: dunivita@gmail.com
+name: Taylor Dunivin
 description: >
-  Explorations in Data Analyses for Metagenomic Advances in Microbial Ecology (EDAMAME) Workshop
+  PhD Candidate at Michigan State University
 # Base URL of site (i.e. /blog). It should always start with a slash,
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://edamame-course.github.io" # the base hostname & protocol for your site
-cover: "/assets/corn-blue-sky.jpg"
+url: "http://dunivint.github.io" # the base hostname & protocol for your site
+cover: "/assets/pipette.long.jpeg"
 #logo: "/assets/logo.png"
 logo-name: Home
 
@@ -71,10 +71,10 @@ descriptions:
 social:
   - name: Twitter
     icon: twitter
-    username: 
-    url: 
+    username: TaylorDunivin
+    url: https://twitter.com/TaylorDunivin
     desc: Follow me on Twitter
-    share: false
+    share: true
 
   - name: Facebook
     icon: facebook
@@ -85,17 +85,17 @@ social:
 
   - name: GitHub
     icon: github
-    username: edamame-course
-    url: https://github.com/edamame-course
+    username: dunivint
+    url: https://github.com/dunivint
     desc: Materials on GitHub
     share: true
 
   - name: LinkedIn
     icon: linkedin
-    username: 
-    url: 
+    username: Taylor Dunivin
+    url: https://www.linkedin.com/in/taylor-dunivin-40a231a1/
     desc: Connect with me on LinkedIn
-    share: false
+    share: true
 
   - name: Google+
     icon: google-plus
