@@ -5,12 +5,12 @@ permalink: /portfolio/
 ---
 
 ## Published work 
-* [Video](http://greatlakesecho.org/2015/06/10/microbes-at-53-year-old-coal-mine-fire-could-fight-pollution/) 
-* [Interview](https://icer.msu.edu/about/announcements/icer-student-highlights-taylor-dunivin)
+* [Video: Microbes at 53-year-old coal mine fire could fight pollution](http://greatlakesecho.org/2015/06/10/microbes-at-53-year-old-coal-mine-fire-could-fight-pollution/) 
+* [Interview: iCER Student Highlights](https://icer.msu.edu/about/announcements/icer-student-highlights-taylor-dunivin)
 
 ## Writing samples
-* [Technical](https://github.com/dunivint/dunivint.github.io/tree/master/assets/technical.pdf)
-* [Interview](https://github.com/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
+* [Technical: Investigation of antibiotic and arsenic resistance gene co-selection over a long-term stressor](https://github.com/dunivint/dunivint.github.io/tree/master/assets/technical.pdf)
+* [Interview: Rita Loch-Caruso](https://github.com/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
 
 
 ## Tutorials
