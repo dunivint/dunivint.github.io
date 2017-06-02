@@ -7,34 +7,34 @@ permalink: /CV/
 
 ## Education
 Michigan State University, East Lansing, Michigan			                                               2014-Present
-Graduate program in Microbiology and Molecular Genetics
-Graduate program in Environmental and Integrative Toxicological Sciences
-Cumulative GPA: 3.92
+* Graduate program in Microbiology and Molecular Genetics
+* Graduate program in Environmental and Integrative Toxicological Sciences
+* Cumulative GPA: 3.92
 
 University of Michigan, Ann Arbor, Michigan	 	                                    2010-2014
-Bachelor of Science in Biology, minor in Environmental Science
-Cumulative GPA: 3.69
+* Bachelor of Science in Biology, minor in Environmental Science
+* Cumulative GPA: 3.69
 
 ## __Research Experience__
 Michigan State University Microbiology and Molecular Genetics                                       2014-Present
-PhD Candidate – Shade Lab
-*	Analyzed microbial diversity and abundance of arsenic resistance genes
-*	Examined co-occurrence between resistance genes during environmental disturbance
+* PhD Candidate – Shade Lab
+  *	Analyzed microbial diversity and abundance of arsenic resistance genes
+  *	Examined co-occurrence between resistance genes during environmental disturbance
 
 University of Michigan Molecular, Cellular, and Developmental Biology                             2013-2014
-Laboratory Technician – Nielsen Lab
-*	Investigated the relationship between GTPases and plant defense signaling
-* Produced single and double Arabidopsis Thaliana gene knockouts
+* Laboratory Technician – Nielsen Lab
+  *	Investigated the relationship between GTPases and plant defense signaling
+  * Produced single and double Arabidopsis Thaliana gene knockouts
 
 University of Michigan Ecology and Evolutionary Biology                                                    Fall 2012
-Undergraduate Researcher – Duda Lab
-*	Created database for previously collected slide samples
-*	Organized database into a photograph PowerPoint for future slide comparisons
+* Undergraduate Researcher – Duda Lab
+  *	Created database for previously collected slide samples
+  *	Organized database into a photograph PowerPoint for future slide comparisons
 
 Nova Environmental, Inc., Ann Arbor, Michigan                                                                                           Summer 2012
-Environmental Consultant
-*	Monitored air samples during asbestos removals
-*	Microscopy and analysis of air samples
+* Environmental Consultant
+  *	Monitored air samples during asbestos removals
+  *	Microscopy and analysis of air samples
 
 ## Publications
 Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. In review.
