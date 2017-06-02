@@ -19,7 +19,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dunivint.github.io" # the base hostname & protocol for your site
 cover: "/assets/pipette.long.jpeg"
-#logo: "/assets/logo.png"
+#logo: "/assets/pipette.long.jpeg"
 logo-name: Home
 
 # Build settings
@@ -40,7 +40,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-disqus_shortname: edamame-course
+disqus_shortname: DunivinT
 
 # Google analytics
 # ga_tracking_id: "UA-XXXX-1"
