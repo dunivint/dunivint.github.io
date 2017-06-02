@@ -9,5 +9,5 @@ permalink: /portfolio/
 * [Interview](https://icer.msu.edu/about/announcements/icer-student-highlights-taylor-dunivin)
 
 ## Writing samples
-* [Technical sample]({{ site.baseurl }}/assets/technical.pdf)
+* <img src="{{ site.baseurl }}/assets/technical.pdf">
 * [Interview sample]()
