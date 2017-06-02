@@ -9,7 +9,7 @@ permalink: /portfolio/
 * [Interview](https://icer.msu.edu/about/announcements/icer-student-highlights-taylor-dunivin)
 
 ## Writing samples
-* [Technical](https://github.com/dunivint/dunivint.github.io/blob/master/assets/technical.pdf)
+* [Technical]({{ site.url }}/assets/Technical.pdf)
 
 
 ## Tutorials
