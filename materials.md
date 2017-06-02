@@ -26,24 +26,24 @@ University of Michigan, Ann Arbor, Michigan	 	                                  
   *	Investigated the relationship between GTPases and plant defense signaling
   * Produced single and double Arabidopsis Thaliana gene knockouts
 
-* University of Michigan Ecology and Evolutionary Biology                                                    Fall 2012
+* University of Michigan Ecology and Evolutionary Biology                                                     2012
 * Undergraduate Researcher – Duda Lab
   *	Created database for previously collected slide samples
   *	Organized database into a photograph PowerPoint for future slide comparisons
 
-* Nova Environmental, Inc., Ann Arbor, Michigan                                                                                           Summer 2012
+* Nova Environmental, Inc., Ann Arbor, Michigan                                                                                            2012
 * Environmental Consultant
   *	Monitored air samples during asbestos removals
   *	Microscopy and analysis of air samples
 
 ## Publications
-Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. In review.
+^Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. In review.
 
 Hye Jin Hwang, Peter Dornbos, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Mitochondrial-targeted Aryl Hydrocarbon Receptor and the Impact of 2,3,7,8-Tetrachlorodibenzo-ρ-Dioxin on Cellular Respiration and the Mitochondrial Proteome. Toxicology and Applied Pharmacology. 1304:121-32.
 
 Hye Jin Hwang, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Data of enzymatic activities of the electron transport chain and ATP synthase complexes in mouse hepatoma cells following exposure to 2, 3, 7, 8-tetrachlorodibenzo-ρ-dioxin (TCDD). Data in brief. 8, 93-97. 
 
-Vincenzo Antignani, Amy L. Klocko, Gwangbae Bak, Suma D. Chandrasekaran, Taylor K. Dunivin, Erik Nielsen. 2014. Plant U-BOX13 and the PI4Kb1/b2 phosphatidylinositol-4 kinases by the small GTPase rabA4B plays important roles during salicylic acid-mediated plant defense signaling in Arabidopsis. Plant Cell. 27: 243-261.
+Vincenzo Antignani, Amy L. Klocko, Gwangbae Bak, Suma D. Chandrasekaran, Taylor K. Dunivin, Erik Nielsen. 2014. Plant U-BOX13 and the PI4Kb1/b2 phosphatidylinositol-4 kinases by the small GTPase rabA4B plays important roles during salicylic acid-mediated plant defense signaling in Arabidopsis. Plant Cell. 27: 243-261.^
 
 ## __Oral Presentations__
 Taylor K. Dunivin. Microbial arsenic resistance in soil above an underground coal mine fire. WiPS. 30 January 2017, East Lansing, MI USA
