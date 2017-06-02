@@ -4,18 +4,18 @@ title: CV
 permalink: /CV/
 ---
 
-<p align=center><b>
-  <font size="+5">Education</font>
+
+<p align=center><b><font size="+5">Education</font>
 
 <p align=left><br>
-Michigan State University, East Lansing, Michigan			                                               2014-Present
+<font size="-2">Michigan State University, East Lansing, Michigan			                                               2014-Present
 Graduate program in Microbiology and Molecular Genetics
 Graduate program in Environmental and Integrative Toxicological Sciences
 Cumulative GPA: 3.92
 
 University of Michigan, Ann Arbor, Michigan	 	                                                                         2010-2014
 Bachelor of Science in Biology, minor in Environmental Science
-Cumulative GPA: 3.69
+Cumulative GPA: 3.69</font>
 
 ## __Research Experience__
 Michigan State University, Department of Microbiology and Molecular Genetics                                       2014-Present
