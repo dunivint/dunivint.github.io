@@ -74,10 +74,10 @@ J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C
 *	Universitsy Honors – University of Michigan						                       2011-2012
 
 ## __Teaching Experience__
-*	Introductory Laboratory for Microbiology – Michigan State University, East Lansing, MI                     Spring 2017
-*	EDAMAME workshop – Michigan State University, Kellogg Biological Station, Kalamazoo, MI           July 2016
-*	Laboratory in Genomics and Molecular Genetics – Michigan State University, East Lansing, MI        Spring 2016
-*	Undergraduate student mentor – Michigan State University, East Lansing MI			          2015-2016
+*	Introductory Laboratory for Microbiology – Michigan State University                Spring 2017
+*	EDAMAME workshop – Michigan State University, Kellogg Biological Station           July 2016
+*	Laboratory in Genomics and Molecular Genetics – Michigan State University        Spring 2016
+*	Undergraduate student mentor – Michigan State University 		          2015-2016
 
 ## __Service Experience__
 *	EDAMAME course coordinator – Michigan State University, East Lansing, MI          		         2016-2017
