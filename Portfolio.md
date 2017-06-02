@@ -10,4 +10,8 @@ permalink: /portfolio/
 
 ## Writing samples
 * <img src="{{ site.baseurl }}/assets/technical.pdf">
-* [Interview sample]()
+* <img src="{{ site.baseurl }}/assets/interview.pdf">
+
+## Tutorials
+* [Plotting graphs in R](https://github.com/dunivint/ggplot2_tutorial/blob/master/GSW_tutorial.md)
+* [Gene-targeted metagenome assembly](https://github.com/edamame-course/Xander/blob/master/Xander.md)
