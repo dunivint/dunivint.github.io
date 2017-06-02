@@ -90,9 +90,9 @@ J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C
 
 ## __Outreach Experience__
 *	Speaker – Biology on Tap, Lansing, MI							          February 2017
-*	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring, White Lake, MI	          July 2016
+*	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring	          July 2016
 *	Presenter – Science Fest, East Lansing, MI							          April 2016
-*	Director/ Publisher of research video – MSU Global YouTube Channel and GreatLakesEcho.org      April 2015
+*	Director/ Publisher of research video – GreatLakesEcho.org      April 2015
 *	Chaired Food Sustainability Committee – University of Michigan, Ann Arbor, MI		          2012-2014
 
 
