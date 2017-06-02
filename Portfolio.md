@@ -10,6 +10,7 @@ permalink: /portfolio/
 
 ## Writing samples
 * [Technical](dunivint.github.io/assets/technical.pdf)
+<img src="{{ site.baseurl }}/assets/technical.pdf" title="Profile Picture" class="profile">
 
  <img src="{{ site.baseurl }}/assets/technical.pdf">
  <img src="{{ site.baseurl }}/assets/interview.pdf">
