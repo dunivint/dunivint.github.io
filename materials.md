@@ -5,10 +5,8 @@ permalink: /CV/
 ---
 
 
-<p align=center><b><font size="+5">Education</font>
-
-<p align=left><br>
-<font size="-2">Michigan State University, East Lansing, Michigan			                                               2014-Present
+## Education
+<font size="-1">Michigan State University, East Lansing, Michigan			                                               2014-Present
 Graduate program in Microbiology and Molecular Genetics
 Graduate program in Environmental and Integrative Toxicological Sciences
 Cumulative GPA: 3.92
