@@ -16,22 +16,22 @@ University of Michigan, Ann Arbor, Michigan	 	                                  
 * Cumulative GPA: 3.69
 
 ## __Research Experience__
-Michigan State University Microbiology and Molecular Genetics                                       2014-Present
+* Michigan State University Microbiology and Molecular Genetics                                       2014-Present
 * PhD Candidate – Shade Lab
   *	Analyzed microbial diversity and abundance of arsenic resistance genes
   *	Examined co-occurrence between resistance genes during environmental disturbance
 
-University of Michigan Molecular, Cellular, and Developmental Biology                             2013-2014
+* University of Michigan Molecular, Cellular, and Developmental Biology                             2013-2014
 * Laboratory Technician – Nielsen Lab
   *	Investigated the relationship between GTPases and plant defense signaling
   * Produced single and double Arabidopsis Thaliana gene knockouts
 
-University of Michigan Ecology and Evolutionary Biology                                                    Fall 2012
+* University of Michigan Ecology and Evolutionary Biology                                                    Fall 2012
 * Undergraduate Researcher – Duda Lab
   *	Created database for previously collected slide samples
   *	Organized database into a photograph PowerPoint for future slide comparisons
 
-Nova Environmental, Inc., Ann Arbor, Michigan                                                                                           Summer 2012
+* Nova Environmental, Inc., Ann Arbor, Michigan                                                                                           Summer 2012
 * Environmental Consultant
   *	Monitored air samples during asbestos removals
   *	Microscopy and analysis of air samples
