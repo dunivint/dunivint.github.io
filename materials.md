@@ -6,14 +6,14 @@ permalink: /CV/
 
 
 ## Education
-Michigan State University, East Lansing, Michigan			                                               2014-Present
-* Graduate program in Microbiology and Molecular Genetics
-* Graduate program in Environmental and Integrative Toxicological Sciences
-* Cumulative GPA: 3.92
+* Michigan State University, East Lansing, Michigan			                                               2014-Present
+  * Graduate program in Microbiology and Molecular Genetics
+  * Graduate program in Environmental and Integrative Toxicological Sciences
+  * Cumulative GPA: 3.92
 
-University of Michigan, Ann Arbor, Michigan	 	                                    2010-2014
-* Bachelor of Science in Biology, minor in Environmental Science
-* Cumulative GPA: 3.69
+* University of Michigan, Ann Arbor, Michigan	 	                                    2010-2014
+  * Bachelor of Science in Biology, minor in Environmental Science
+  * Cumulative GPA: 3.69
 
 
 ## __Research Experience__
@@ -45,7 +45,7 @@ University of Michigan, Ann Arbor, Michigan	 	                                  
 
 * Hye Jin Hwang, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Data of enzymatic activities of the electron transport chain and ATP synthase complexes in mouse hepatoma cells following exposure to 2, 3, 7, 8-tetrachlorodibenzo-ρ-dioxin (TCDD). Data in brief. 8, 93-97. 
 
-* Vincenzo Antignani, Amy L. Klocko, Gwangbae Bak, Suma D. Chandrasekaran, Taylor K. Dunivin, Erik Nielsen. 2014. Plant U-BOX13 and the PI4Kb1/b2 phosphatidylinositol-4 kinases by the small GTPase rabA4B plays important roles during salicylic acid-mediated plant defense signaling in Arabidopsis. Plant Cell. 27: 243-261.<sup>
+* Vincenzo Antignani, Amy L. Klocko, Gwangbae Bak, Suma D. Chandrasekaran, Taylor K. Dunivin, Erik Nielsen. 2014. Plant U-BOX13 and the PI4Kb1/b2 phosphatidylinositol-4 kinases by the small GTPase rabA4B plays important roles during salicylic acid-mediated plant defense signaling in Arabidopsis. Plant Cell. 27: 243-261.
 
 
 ## __Oral Presentations__
@@ -65,9 +65,9 @@ University of Michigan, Ann Arbor, Michigan	 	                                  
 
 * Taylor K. Dunivin, John Chodkowski, Jackson W. Sorensen, Ashley Shade. Microbial community arsenic tolerance and the fate of arsenic in soil. Microbiome Symposium. 10 September 2015. Ann Arbor, MI USA
 
-* Ashley Shade, Tammy C. Tobin, Taylor K. Dunivin, Sang-Hoon Lee, Jackson W. Sorensen, Joshua R. Herr.  Microbial Responses to Extreme Disturbance:  Insights from the Ongoing Centralia Coal Mine Fire.  DOE Joint Genome Institute User’s Meeting.  23-27 March 2015. Walnut Creek, CA USA.
+* Ashley Shade, Tammy C. Tobin, Taylor K. Dunivin, Sang-Hoon Lee, Jackson W. Sorensen, Joshua R. Herr.  Microbial Responses to Extreme Disturbance:  Insights from the Ongoing Centralia Coal Mine Fire.  DOE Joint Genome Institute User’s Meeting.  23-27 March 2015. Walnut Creek, CA USA
 
-* J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C. E. Rockwell. Activation of Nrf2 by tBHQ upregulates IgM production by LPS-activated mouse splenocytes. The Society of Toxicology National Meeting. 22-26 March 2015. San Diego, California. 
+* J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C. E. Rockwell. Activation of Nrf2 by tBHQ upregulates IgM production by LPS-activated mouse splenocytes. The Society of Toxicology National Meeting. 22-26 March 2015. San Diego, CA USA 
 
 
 ## __Honors and Awards__
