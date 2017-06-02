@@ -9,8 +9,7 @@ permalink: /portfolio/
 * [Interview](https://icer.msu.edu/about/announcements/icer-student-highlights-taylor-dunivin)
 
 ## Writing samples
-* [Technical]({{ site.baseurl }}/assets/Technical.pdf)
-
+<a href="{{ site.baseurl }}/assets/Technical.pdf">pdf file</a>
 
 ## Tutorials
 * [Plotting graphs in R](https://github.com/dunivint/ggplot2_tutorial/blob/master/GSW_tutorial.md)
