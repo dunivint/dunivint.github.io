@@ -39,7 +39,13 @@ permalink: /CV/
 
 
 ## Publications
-* Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. In review.
+* Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Genome reduction and genetic pathway enrichment across a thermal gradient of soil metagenomes. _In preparation_.
+
+* Taylor K Dunivin, Susanna Y Yeh, Ashley Shade.  A meta-analysis of the distribution and diversity of microbial arsenic resistance genes across soils. _In preparation_.
+
+* Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. _In preparation_ for EDAR conference proceedings special issue of FEMS Microbiology Ecology.
+
+* Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. _In review_.
 
 * Hye Jin Hwang, Peter Dornbos, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Mitochondrial-targeted Aryl Hydrocarbon Receptor and the Impact of 2,3,7,8-Tetrachlorodibenzo-ρ-Dioxin on Cellular Respiration and the Mitochondrial Proteome. Toxicology and Applied Pharmacology. 1304:121-32.
 
@@ -51,12 +57,18 @@ permalink: /CV/
 ## __Oral Presentations__
 * Taylor K. Dunivin. Microbial arsenic resistance in soil above an underground coal mine fire. WiPS. 30 January 2017, East Lansing, MI USA
 
+* Taylor K Dunivin. Microbial arsenic resistance in soil above an underground coalmine fire. Preliminary exam seminar. 23 November 2016, East Lansing, MI USA
+
 * Taylor K. Dunivin, Ashley Shade. Ecological dynamics of wild and synthetic microbiomes. MMG UM Joint Retreat. 16-19 October 2016. Kalamazoo, MI USA
 
 * Taylor K. Dunivin, Jackson W. Sorensen, Ashley Shade. The roles of rare taxa for microbial community dynamics across interfaces. Ecological Society of America Annual Meeting. 7-12 August 2016. Fort Lauderdale, FL USA
 
 
 ## __Posters and Abstracts__
+* Taylor K. Dunivin and Ashley Shade. Investigation of arsenic and antibiotic resistance gene co-selection over a long term stressor. EDAR Conference. 13-17 August 2017. East Lansing, MI USA
+
+* Susanna Yeh, Taylor K. Dunivin,  Ashley Shade. Diversity and abundance of arsenic resistant genes in soil microbiomes. Mid-SURE. 26 July 2017. East Lanisng, MI USA
+
 * Taylor K. Dunivin, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. ISME Conference. 21-26 August 2016. Montreal, QC Canada
 
 * Taylor K. Dunivin, John Chodkowski, Jackson W. Sorensen, Ashley Shade. Microbial community arsenic tolerance and the fate of arsenic in soil. Microbiology and molecular genetics 2nd year poster session. 26 April 2016. East Lansing, MI USA
@@ -80,6 +92,7 @@ permalink: /CV/
 
 
 ## __Teaching Experience__
+* ACRES REU student mentor – Michigan State University, East Lansing, MI			          Summer 2017
 *	Introductory Laboratory for Microbiology – Michigan State University                Spring 2017
 *	EDAMAME workshop – Michigan State University, Kellogg Biological Station           July 2016
 *	Laboratory in Genomics and Molecular Genetics – Michigan State University        Spring 2016
@@ -87,6 +100,8 @@ permalink: /CV/
 
 
 ## __Service Experience__
+* Reviewer for mSystems
+* Reviewer for Environmental Science and Technology
 *	EDAMAME course coordinator – Michigan State University, East Lansing, MI          		         2016-2017
 *	Interviewer for CMSE candidate – Michigan State University, East Lansing MI                                February 2017
 *	Guide for BMS recruitment – Michigan State University, East Lansing MI                                        2015-2017
@@ -97,7 +112,7 @@ permalink: /CV/
 
 
 ## __Outreach Experience__
-*	Speaker – Biology on Tap, Lansing, MI							          February 2017
+*	Invited Speaker – Biology on Tap, Lansing, MI							          February 2017
 *	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring	          July 2016
 *	Presenter – Science Fest, East Lansing, MI							          April 2016
 *	Director/ Publisher of research video – GreatLakesEcho.org      April 2015
