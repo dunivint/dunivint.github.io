@@ -4,7 +4,7 @@ title: Teaching
 permalink: /Teaching/
 ---
 
- <img src="{{ site.baseurl }}/assets/edamame_2016.jpg" title="Summer REU" class="profile" style="float:left;" height="200" width="190" HSPACE=”50” VSPACE=”50”>          __EDAMAME workshop – 2016-present__: Since 2015, I have been teaching and coordinating a computational workshop in microbial ecology. I support the course through applicant review, logistics organization, website upkeep, and instructing. EDAMAME is dedicated to open source science, so we provide all of  our tutorials for free [GitHub](https://github.com/edamame-course). Students, faculty, or industry workers interested in the course can visit [edamamecourse.org](http://www.edamamecourse.org/) for more information.  
+ <img src="{{ site.baseurl }}/assets/edamame_2016.jpg" title="Summer REU" class="profile" style="float:left;" height="200" width="190" vspace=”50” hspace=”50”>          __EDAMAME workshop – 2016-present__: Since 2015, I have been teaching and coordinating a computational workshop in microbial ecology. I support the course through applicant review, logistics organization, website upkeep, and instructing. EDAMAME is dedicated to open source science, so we provide all of  our tutorials for free [GitHub](https://github.com/edamame-course). Students, faculty, or industry workers interested in the course can visit [edamamecourse.org](http://www.edamamecourse.org/) for more information.  
  
  <br>
 
