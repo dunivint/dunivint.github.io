@@ -4,6 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
+<iframe src="http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_MSU_CV_Fall_2017.pdf" width="400" height="400"></iframe>
 
 ## Education
 * Michigan State University, East Lansing, Michigan			                                               2014-Present
