@@ -4,11 +4,11 @@ title: Teaching
 permalink: /Teaching/
 ---
 
- <img src="{{ site.baseurl }}/assets/edamame_2016.jpg" title="Summer REU" class="profile" float:left; height="200" width="190">          __EDAMAME workshop – 2016-present__: Since 2015, I have been teaching and coordinating a computational workshop in microbial ecology. I support the course through applicant review, logistics organization, website upkeep, and instructing. EDAMAME is dedicated to open source science, so we provide all of  our tutorials for free [GitHub](https://github.com/edamame-course). Students, faculty, or industry workers interested in the course can visit [edamamecourse.org](http://www.edamamecourse.org/) for more information.  
+ <img src="{{ site.baseurl }}/assets/edamame_2016.jpg" title="Summer REU" class="profile" style="float:left;" height="200" width="190">          __EDAMAME workshop – 2016-present__: Since 2015, I have been teaching and coordinating a computational workshop in microbial ecology. I support the course through applicant review, logistics organization, website upkeep, and instructing. EDAMAME is dedicated to open source science, so we provide all of  our tutorials for free [GitHub](https://github.com/edamame-course). Students, faculty, or industry workers interested in the course can visit [edamamecourse.org](http://www.edamamecourse.org/) for more information.  
  
  <br>
 
-<img src="{{ site.baseurl }}/assets/icer_2017.jpg" title="Summer REU" align = "left" class="gallery" width="190" height="190">         __iCER ACRES REU student mentor – Summer 2017__: I mentored Susannah Yeh, a computer science major at the University of Maryland. Together, we worked on automating bioinformatics pipelines to assemble arsenic resistance genes from metagenomic data. Ultimately, we hope these data will lead to insights into the ecology and evolution of arsenic resistance genes. Students interested in the iCER ACRES program should visit [icer-acres.msu.edu](https://icer-acres.msu.edu/) for more information. 
+<img src="{{ site.baseurl }}/assets/icer_2017.jpg" title="Summer REU" style="float:left;" class="profile">         __iCER ACRES REU student mentor – Summer 2017__: I mentored Susannah Yeh, a computer science major at the University of Maryland. Together, we worked on automating bioinformatics pipelines to assemble arsenic resistance genes from metagenomic data. Ultimately, we hope these data will lead to insights into the ecology and evolution of arsenic resistance genes. Students interested in the iCER ACRES program should visit [icer-acres.msu.edu](https://icer-acres.msu.edu/) for more information. 
 
 <br>
 
