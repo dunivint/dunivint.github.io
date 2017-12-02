@@ -9,7 +9,7 @@ permalink: /Research/
  
  <br>
  
-  <img src="{{ site.baseurl }}/assets/dna.png" title="dna" class="gallery" align="center"> 
+  <img src="{{ site.baseurl }}/assets/dna.jpg" title="dna" class="gallery" align="center"> 
  __Microbial arsenic resistance genes__: Microbial arsenic resistance mechanisms have important implications for public health since they can impact the fate of arsenic, a known poison and carcinogen, in the environment. I am developing methods to improve and streamline annotation of arsenic resistance genes from sequencing data so that we can get a better understanding of the distribution and abundance of these genes in the environment and potentially improve bioremediation and risk assessment. I am applying these methods to several soil metagenomes to test the abundance of different arsenic resistance genes in non-contaminated environemnts throughout the world. 
  
  <br>
