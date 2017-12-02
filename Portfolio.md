@@ -10,7 +10,7 @@ permalink: /portfolio/
 
 ## Writing samples
 * [Technical: Antibiotic and arsenic resistance gene co-selection over a long-term stressor](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/tree/master/assets/technical.pdf)
-* [Interview: Rita Loch-Caruso](http://nbviewer.jupyter.org/github.com/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
+* [Interview: Rita Loch-Caruso](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
 
 
 ## Tutorials
