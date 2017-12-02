@@ -3,7 +3,8 @@ layout: page
 title: CV
 permalink: /CV/
 ---
-
+<a href="#" id="link">Click Here</a>
+<iframe id="frame" src="http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_MSU_CV_Fall_2017.pdf" scrolling="yes"></iframe>
 <iframe src="http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_MSU_CV_Fall_2017.pdf" width="400" height="400"></iframe>
 
 ## Education
