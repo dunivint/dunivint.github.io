@@ -20,4 +20,4 @@ __Introductory Laboratory for Microbiology – Spring 2017__: I instructed 60 st
  
  <br>
  
- __Undergraduate student mentor – 2015-2016__: Mentored a senior undergraduate at Michigan State University, Justine Miller. We worked on characterizing arsenic resistant bacteria cultured from Centralia, PA soils, the site of an underground coal mine fire. Justine is now interested in applying her microbiology skills at veternary school. 
+ <img src="{{ site.baseurl }}/assets/jmiller.jpg" title="Summer REU" style="float:left;" class="profile">__Undergraduate student mentor – 2015-2016__: Mentored a senior undergraduate at Michigan State University, Justine Miller. We worked on characterizing arsenic resistant bacteria cultured from Centralia, PA soils, the site of an underground coal mine fire. Justine is now interested in applying her microbiology skills at veternary school. 
