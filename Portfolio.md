@@ -9,8 +9,8 @@ permalink: /portfolio/
 * [Interview: iCER Student Highlights](https://icer.msu.edu/about/announcements/icer-student-highlights-taylor-dunivin)
 
 ## Writing samples
-* [Technical: Antibiotic and arsenic resistance gene co-selection over a long-term stressor](https://github.com/dunivint/dunivint.github.io/tree/master/assets/technical.pdf)
-* [Interview: Rita Loch-Caruso](https://github.com/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
+* [Technical: Antibiotic and arsenic resistance gene co-selection over a long-term stressor](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/tree/master/assets/technical.pdf)
+* [Interview: Rita Loch-Caruso](http://nbviewer.jupyter.org/github.com/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
 
 
 ## Tutorials
