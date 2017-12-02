@@ -19,7 +19,7 @@ description: >
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://dunivint.github.io" # the base hostname & protocol for your site
 cover: "/assets/pipette.long.jpeg"
-#logo: "/assets/pipette.long.jpeg"
+logo: "/assets/dna-icon-2316641_1280.png"
 logo-name: Home
 
 # Build settings
