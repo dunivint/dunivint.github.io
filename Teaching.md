@@ -8,7 +8,9 @@ permalink: /Teaching/
  
  <br>
 
-<img src="{{ site.baseurl }}/assets/icer_2017.jpg" title="Summer REU" style="float:left;" class="gallery"><br>         __iCER ACRES REU student mentor – Summer 2017__: I mentored Susannah Yeh, a computer science major at the University of Maryland. Together, we worked on automating bioinformatics pipelines to assemble arsenic resistance genes from metagenomic data. Ultimately, we hope these data will lead to insights into the ecology and evolution of arsenic resistance genes. Students interested in the iCER ACRES program should visit [icer-acres.msu.edu](https://icer-acres.msu.edu/) for more information. 
+<img src="{{ site.baseurl }}/assets/icer_2017.jpg" title="Summer REU" style="float:left;" class="gallery">
+<br>
+__iCER ACRES REU student mentor – Summer 2017__: I mentored Susannah Yeh, a computer science major at the University of Maryland. Together, we worked on automating bioinformatics pipelines to assemble arsenic resistance genes from metagenomic data. Ultimately, we hope these data will lead to insights into the ecology and evolution of arsenic resistance genes. Students interested in the iCER ACRES program should visit [icer-acres.msu.edu](https://icer-acres.msu.edu/) for more information. 
 
 <br>
 
