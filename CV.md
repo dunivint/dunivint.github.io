@@ -38,11 +38,11 @@ permalink: /CV/
 
 
 ## Publications
+* Taylor K Dunivin, Susanna Yeh, Ashley Shade. Targeting microbial arsenic resistance genes: A meta-analysis across soils. _In preparation_.
+
 * Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Genome reduction and genetic pathway enrichment across a thermal gradient of soil metagenomes. _In preparation_.
 
-* Taylor K Dunivin, Susanna Y Yeh, Ashley Shade.  A meta-analysis of the distribution and diversity of microbial arsenic resistance genes across soils. _In preparation_.
-
-* Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. _In preparation_ for EDAR conference proceedings special issue of FEMS Microbiology Ecology.
+* Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. _In review_ for EDAR conference proceedings special issue of FEMS Microbiology Ecology.
 
 * Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. _In review_.
 
