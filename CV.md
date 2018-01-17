@@ -100,6 +100,7 @@ permalink: /CV/
 *	Universitsy Honors – University of Michigan						                       2011-2012
 
 ## __Service Experience__
+* ScienceDebate.org student group leader - Michigan State University, East Lansing, MI          		         2017-present
 * Reviewer for mSystems
 * Reviewer for Environmental Science and Technology
 *	EDAMAME course coordinator – Michigan State University, East Lansing, MI          		         2016-2017
