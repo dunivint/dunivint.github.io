@@ -20,6 +20,8 @@ permalink: /CV/
 * PhD Candidate – Shade Lab
   *	Analyzed microbial diversity and abundance of arsenic resistance genes
   *	Examined co-occurrence between resistance genes during environmental disturbance
+  * Examined changes in clinically relevant antibiotic resistance genes over a temperature gradient to improve understanding of environmental dissemination 
+
 
 * University of Michigan Molecular, Cellular, and Developmental Biology                             2013-2014
 * Laboratory Technician – Nielsen Lab
@@ -34,8 +36,8 @@ permalink: /CV/
 * Nova Environmental, Inc., Ann Arbor, Michigan                                                                                            2012
 * Environmental Consultant
   *	Monitored air samples during asbestos removals
-  *	Microscopy and analysis of air samples
-
+  * Worked at the interface of the public and cleanup crews to promote worker safety and reduce public concern during asbestos clean up
+  
 
 ## Publications
 * Taylor K Dunivin, Susanna Yeh, Ashley Shade. Targeting microbial arsenic resistance genes: A meta-analysis across soils. _In preparation_.
@@ -54,6 +56,8 @@ permalink: /CV/
 
 
 ## __Oral Presentations__
+* Taylor K Dunivin. The Ecology of Microbial Arsenic Resistance Genes Over a Long Term Stressor. BMS Retreat. 25 August 2017, East Lansing, MI USA
+
 * Taylor K. Dunivin. Microbial arsenic resistance in soil above an underground coal mine fire. WiPS. 30 January 2017, East Lansing, MI USA
 
 * Taylor K Dunivin. Microbial arsenic resistance in soil above an underground coalmine fire. Preliminary exam seminar. 23 November 2016, East Lansing, MI USA
@@ -80,6 +84,12 @@ permalink: /CV/
 
 * J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C. E. Rockwell. Activation of Nrf2 by tBHQ upregulates IgM production by LPS-activated mouse splenocytes. The Society of Toxicology National Meeting. 22-26 March 2015. San Diego, CA USA 
 
+## __Teaching Experience__
+* ACRES REU student mentor – Michigan State University, East Lansing, MI			          Summer 2017
+*	Introductory Laboratory for Microbiology – Michigan State University                Spring 2017
+*	EDAMAME workshop – Michigan State University, Kellogg Biological Station           July 2016
+*	Laboratory in Genomics and Molecular Genetics – Michigan State University        Spring 2016
+*	Undergraduate student mentor – Michigan State University 		          2015-2016
 
 ## __Honors and Awards__
 *	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology	                                    Fall 2017
@@ -88,15 +98,6 @@ permalink: /CV/
 *	NIH BEST Scholar									                       2015-Present
 *	Council of Graduate Students travel award							          Fall 2015
 *	Universitsy Honors – University of Michigan						                       2011-2012
-
-
-## __Teaching Experience__
-* ACRES REU student mentor – Michigan State University, East Lansing, MI			          Summer 2017
-*	Introductory Laboratory for Microbiology – Michigan State University                Spring 2017
-*	EDAMAME workshop – Michigan State University, Kellogg Biological Station           July 2016
-*	Laboratory in Genomics and Molecular Genetics – Michigan State University        Spring 2016
-*	Undergraduate student mentor – Michigan State University 		          2015-2016
-
 
 ## __Service Experience__
 * Reviewer for mSystems
@@ -109,11 +110,11 @@ permalink: /CV/
 *	Panelist: Grad school or Med school? – Michigan State University, East Lansing MI                     April 2016
 *	Judge for URAF poster session – Michigan State University, East Lansing MI			         May 2015
 
-
 ## __Outreach Experience__
+* Co-author of iCER Research Highlights - East Lansing, MI							          May 2017
 *	Invited Speaker – Biology on Tap, Lansing, MI							          February 2017
 *	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring	          July 2016
-*	Presenter – Science Fest, East Lansing, MI							          April 2016
+*	Presenter – Science Festival, East Lansing, MI							          April 2016
 *	Director/ Publisher of research video – GreatLakesEcho.org      April 2015
 *	Chaired Food Sustainability Committee – University of Michigan, Ann Arbor, MI		          2012-2014
 
