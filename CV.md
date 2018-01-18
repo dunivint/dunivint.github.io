@@ -8,7 +8,7 @@ permalink: /CV/
 * Michigan State University, East Lansing, Michigan			                                               2014-Present
   * Graduate program in Microbiology and Molecular Genetics
   * Graduate program in Environmental and Integrative Toxicological Sciences
-  * Cumulative GPA: 3.92
+  * Cumulative GPA: 3.94
 
 * University of Michigan, Ann Arbor, Michigan	 	                                    2010-2014
   * Bachelor of Science in Biology, minor in Environmental Science
@@ -46,7 +46,7 @@ permalink: /CV/
 
 * Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. _In review_ for EDAR conference proceedings special issue of FEMS Microbiology Ecology.
 
-* Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. _In review_.
+* Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. _In press_.
 
 * Hye Jin Hwang, Peter Dornbos, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Mitochondrial-targeted Aryl Hydrocarbon Receptor and the Impact of 2,3,7,8-Tetrachlorodibenzo-ρ-Dioxin on Cellular Respiration and the Mitochondrial Proteome. Toxicology and Applied Pharmacology. 1304:121-32.
 
