@@ -5,35 +5,35 @@ permalink: /CV/
 ---
 
 ## Education
-* Michigan State University, East Lansing, Michigan			                                               2014-Present
+* Michigan State University, East Lansing, Michigan,			                                               _2014-Present_
   * Graduate program in Microbiology and Molecular Genetics
   * Graduate program in Environmental and Integrative Toxicological Sciences
   * Cumulative GPA: 3.94
 
-* University of Michigan, Ann Arbor, Michigan	 	                                    2010-2014
+* University of Michigan, Ann Arbor, Michigan,	 	                                    _2010-2014_
   * Bachelor of Science in Biology, minor in Environmental Science
   * Cumulative GPA: 3.69
 
 
 ## __Research Experience__
-* Michigan State University Microbiology and Molecular Genetics                                       2014-Present
+* Michigan State University Microbiology and Molecular Genetics,                                       _2014-Present_
 * PhD Candidate – Shade Lab
   *	Analyzed microbial diversity and abundance of arsenic resistance genes
   *	Examined co-occurrence between resistance genes during environmental disturbance
   * Examined changes in clinically relevant antibiotic resistance genes over a temperature gradient to improve understanding of environmental dissemination 
 
 
-* University of Michigan Molecular, Cellular, and Developmental Biology                             2013-2014
+* University of Michigan Molecular, Cellular, and Developmental Biology,                             _2013-2014_
 * Laboratory Technician – Nielsen Lab
   *	Investigated the relationship between GTPases and plant defense signaling
   * Produced single and double Arabidopsis Thaliana gene knockouts
 
-* University of Michigan Ecology and Evolutionary Biology                                                     2012
+* University of Michigan Ecology and Evolutionary Biology,                                                     _2012_
 * Undergraduate Researcher – Duda Lab
   *	Created database for previously collected slide samples
   *	Organized database into a photograph PowerPoint for future slide comparisons
 
-* Nova Environmental, Inc., Ann Arbor, Michigan                                                                                            2012
+* Nova Environmental, Inc., Ann Arbor, Michigan,                                                                       _2012_
 * Environmental Consultant
   *	Monitored air samples during asbestos removals
   * Worked at the interface of the public and cleanup crews to promote worker safety and reduce public concern during asbestos clean up
@@ -85,39 +85,39 @@ permalink: /CV/
 * J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C. E. Rockwell. Activation of Nrf2 by tBHQ upregulates IgM production by LPS-activated mouse splenocytes. The Society of Toxicology National Meeting. 22-26 March 2015. San Diego, CA USA 
 
 ## __Teaching Experience__
-* ACRES REU student mentor – Michigan State University, East Lansing, MI			          Summer 2017
-*	Introductory Laboratory for Microbiology – Michigan State University                Spring 2017
-*	EDAMAME workshop – Michigan State University, Kellogg Biological Station           July 2016
-*	Laboratory in Genomics and Molecular Genetics – Michigan State University        Spring 2016
-*	Undergraduate student mentor – Michigan State University 		          2015-2016
+* ACRES REU student mentor – Michigan State University, East Lansing, MI,			          _Summer 2017_
+*	Introductory Laboratory for Microbiology – Michigan State University,                _Spring 2017_
+*	EDAMAME workshop – Michigan State University, Kellogg Biological Station,          _July 2016_
+*	Laboratory in Genomics and Molecular Genetics – Michigan State University,        _Spring 2016_
+*	Undergraduate student mentor – Michigan State University, 		          _2015-2016_
 
 ## __Honors and Awards__
-*	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology	                                    Fall 2017
-*	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology	                                    Summer 2016
-*	Gerhardt travel award					  			                       Summer 2016
-*	NIH BEST Scholar									                       2015-Present
-*	Council of Graduate Students travel award							          Fall 2015
-*	Universitsy Honors – University of Michigan						                       2011-2012
+*	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology,	                                    _Fall 2017_
+*	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology,	                                    _Summer 2016_
+*	Gerhardt travel award,					  			                       _Summer 2016_
+*	NIH BEST Scholar,									                       _2015-Present_
+*	Council of Graduate Students travel award,							          _Fall 2015_
+*	Universitsy Honors – University of Michigan,						                       _2011-2012_
 
 ## __Service Experience__
-* ScienceDebate.org student group leader - Michigan State University, East Lansing, MI          		         2017-present
-* Reviewer for mSystems
-* Reviewer for Environmental Science and Technology
-*	EDAMAME course coordinator – Michigan State University, East Lansing, MI          		         2016-2017
-*	Interviewer for CMSE candidate – Michigan State University, East Lansing MI                                February 2017
-*	Guide for BMS recruitment – Michigan State University, East Lansing MI                                        2015-2017
-*	New student Mentor – BMS, Michigan State University, East Lansing MI                                            August 2016
-*	Judge for mid-SURE poster session – Michigan State University, East Lansing MI		         July 2016
-*	Panelist: Grad school or Med school? – Michigan State University, East Lansing MI                     April 2016
-*	Judge for URAF poster session – Michigan State University, East Lansing MI			         May 2015
+* ScienceDebate.org student group leader - East Lansing, MI,          		         _2017-present_
+* Reviewer for mSystems,
+* Reviewer for Environmental Science and Technology,
+*	EDAMAME course coordinator – Michigan State University, East Lansing, MI,          		         _2016-2017_
+*	Interviewer for CMSE candidate – Michigan State University, East Lansing, MI,                                _February 2017_
+*	Guide for BMS recruitment – Michigan State University, East Lansing MI,                                        _2015-2017_
+*	New student Mentor – BMS, Michigan State University, East Lansing MI,                                            _August 2016_
+*	Judge for mid-SURE poster session – Michigan State University, East Lansing, MI,		         _July 2016_
+*	Panelist: Grad school or Med school? – Michigan State University, East Lansing, MI,                     _April 2016_
+*	Judge for URAF poster session – Michigan State University, East Lansing, MI,			         _May 2015_
 
 ## __Outreach Experience__
-* Co-author of iCER Research Highlights - East Lansing, MI							          May 2017
-*	Invited Speaker – Biology on Tap, Lansing, MI							          February 2017
-*	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring	          July 2016
-*	Presenter – Science Festival, East Lansing, MI							          April 2016
-*	Director/ Publisher of research video – GreatLakesEcho.org      April 2015
-*	Chaired Food Sustainability Committee – University of Michigan, Ann Arbor, MI		          2012-2014
+* Co-author of iCER Research Highlights - East Lansing, MI,							          _May 2017_
+*	Invited Speaker – Biology on Tap, Lansing, MI,							          _February 2017_
+*	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring,	          _July 2016_
+*	Presenter – Science Festival, East Lansing, MI,							          _April 2016_
+*	Director/ Publisher of research video – GreatLakesEcho.org,      _April 2015_
+*	Chaired Food Sustainability Committee – University of Michigan, Ann Arbor, MI,		          _2012-2014_
 
 
 
