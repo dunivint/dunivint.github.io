@@ -101,8 +101,8 @@ permalink: /CV/
 
 ## __Service Experience__
 * ScienceDebate.org student group leader - East Lansing, MI,          		         _2017-present_
-* Reviewer for mSystems,
-* Reviewer for Environmental Science and Technology,
+* Reviewer for mSystems
+* Reviewer for Environmental Science and Technology
 *	EDAMAME course coordinator – Michigan State University, East Lansing, MI,          		         _2016-2017_
 *	Interviewer for CMSE candidate – Michigan State University, East Lansing, MI,                                _February 2017_
 *	Guide for BMS recruitment – Michigan State University, East Lansing MI,                                        _2015-2017_
