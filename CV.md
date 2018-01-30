@@ -4,6 +4,9 @@ title: CV
 permalink: /CV/
 ---
 
+[PDF version]
+[Google Scholar](https://scholar.google.com/citations?user=PQmQa9AAAAAJ&hl=en&oi=ao)
+
 ## Education
 * Michigan State University, East Lansing, Michigan,			                                               _2014-Present_
   * Graduate program in Microbiology and Molecular Genetics
