@@ -46,7 +46,7 @@ permalink: /CV/
 
 * Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. _In press_ for EDAR conference proceedings special issue of FEMS Microbiology Ecology.
 
-* Taylor K. Dunivin, Justine Miller, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. Plos ONE. 13(1): e0191893.
+* Taylor K. Dunivin, Justine Miller, Ashley Shade. . Taxonomically-linked growth phenotypes during arsenic stress among arsenic resistant bacteria isolated from soils overlying the Centralia coal seam fire. Plos ONE. 13(1): e0191893.
 
 * Hye Jin Hwang, Peter Dornbos, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Mitochondrial-targeted Aryl Hydrocarbon Receptor and the Impact of 2,3,7,8-Tetrachlorodibenzo-ρ-Dioxin on Cellular Respiration and the Mitochondrial Proteome. Toxicology and Applied Pharmacology. 1304:121-32.
 
