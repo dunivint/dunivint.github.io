@@ -4,8 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-## [PDF version](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_MSU_CV_2018.pdf)
-## [Google Scholar](https://scholar.google.com/citations?user=PQmQa9AAAAAJ&hl=en&oi=ao)
+[PDF version](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_MSU_CV_2018.pdf)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[Google Scholar](https://scholar.google.com/citations?user=PQmQa9AAAAAJ&hl=en&oi=ao)
 
 ## Education
 * Michigan State University, East Lansing, Michigan,			                                               _2014-Present_
