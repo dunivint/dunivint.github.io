@@ -46,9 +46,9 @@ permalink: /CV/
 
 * Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Genome reduction and genetic pathway enrichment across a thermal gradient of soil metagenomes. _In preparation_.
 
-* Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. _In press_ for EDAR conference proceedings special issue of FEMS Microbiology Ecology.
+* Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. FEMS Microbiology Ecology.  [doi.org/10.1093/femsec/fiy016](doi.org/10.1093/femsec/fiy016).
 
-* Taylor K. Dunivin, Justine Miller, Ashley Shade. . Taxonomically-linked growth phenotypes during arsenic stress among arsenic resistant bacteria isolated from soils overlying the Centralia coal seam fire. Plos ONE. 13(1): e0191893.
+* Taylor K. Dunivin, Justine Miller, Ashley Shade. . Taxonomically-linked growth phenotypes during arsenic stress among arsenic resistant bacteria isolated from soils overlying the Centralia coal seam fire. Plos ONE. 13(1): e0191893 [doi.org/10.1371/journal.pone.0191893](doi.org/10.1371/journal.pone.0191893).
 
 * Hye Jin Hwang, Peter Dornbos, Michelle Steidemann, Taylor K Dunivin, Mike Rizzo, John LaPres. 2016. Mitochondrial-targeted Aryl Hydrocarbon Receptor and the Impact of 2,3,7,8-Tetrachlorodibenzo-ρ-Dioxin on Cellular Respiration and the Mitochondrial Proteome. Toxicology and Applied Pharmacology. 1304:121-32.
 
