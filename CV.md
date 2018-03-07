@@ -4,7 +4,7 @@ title: CV
 permalink: /CV/
 ---
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[PDF version](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_MSU_CV_2018.pdf)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[Google Scholar](https://scholar.google.com/citations?user=PQmQa9AAAAAJ&hl=en&oi=ao)
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;[PDF version](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/blob/master/assets/Dunivin_CV_2018.pdf)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp;[Google Scholar](https://scholar.google.com/citations?user=PQmQa9AAAAAJ&hl=en&oi=ao)
 
 ## Education
 * Michigan State University, East Lansing, Michigan,			                                               _2014-Present_
@@ -20,31 +20,20 @@ permalink: /CV/
 ## __Research Experience__
 * Michigan State University Microbiology and Molecular Genetics,                                       _2014-Present_
 * PhD Candidate – Shade Lab
-  *	Analyzed microbial diversity and abundance of arsenic resistance genes
-  *	Examined co-occurrence between resistance genes during environmental disturbance
-  * Examined changes in clinically relevant antibiotic resistance genes over a temperature gradient to improve understanding of environmental dissemination 
-
 
 * University of Michigan Molecular, Cellular, and Developmental Biology,                             _2013-2014_
 * Laboratory Technician – Nielsen Lab
-  *	Investigated the relationship between GTPases and plant defense signaling
-  * Produced single and double Arabidopsis Thaliana gene knockouts
 
 * University of Michigan Ecology and Evolutionary Biology,                                                     _2012_
 * Undergraduate Researcher – Duda Lab
-  *	Created database for previously collected slide samples
-  *	Organized database into a photograph PowerPoint for future slide comparisons
 
 * Nova Environmental, Inc., Ann Arbor, Michigan,                                                                       _2012_
 * Environmental Consultant
-  *	Monitored air samples during asbestos removals
-  * Worked at the interface of the public and cleanup crews to promote worker safety and reduce public concern during asbestos clean up
-  
-
+ 
 ## Publications
 * Taylor K Dunivin, Susanna Yeh, Ashley Shade. Targeting microbial arsenic resistance genes: A meta-analysis across soils. _In preparation_.
 
-* Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Genome reduction and genetic pathway enrichment across a thermal gradient of soil metagenomes. _In preparation_.
+* Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Ecological selection for small microbial genomes along a temperate-to-thermal soil gradient. _Submitted_. Preprint: [doi.org/10.1101/276584](doi.org/10.1101/276584)
 
 * Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. FEMS Microbiology Ecology.  [doi.org/10.1093/femsec/fiy016](doi.org/10.1093/femsec/fiy016).
 
@@ -58,6 +47,8 @@ permalink: /CV/
 
 
 ## __Oral Presentations__
+* Taylor K Dunivin. A meta-analysis of microbial arsenic resistance genes across soils. WiPS. 12 February 2018. East Lansing, MI, USA
+
 * Taylor K Dunivin. The Ecology of Microbial Arsenic Resistance Genes Over a Long Term Stressor. BMS Retreat. 25 August 2017, East Lansing, MI USA
 
 * Taylor K. Dunivin. Microbial arsenic resistance in soil above an underground coal mine fire. WiPS. 30 January 2017, East Lansing, MI USA
@@ -70,6 +61,8 @@ permalink: /CV/
 
 
 ## __Posters and Abstracts__
+* Taylor K. Dunivin and Ashley Shade. Targeting arsenic resistance genes: a meta-analysis across soils. 7-11 June 2018. Atlanta, GA USA
+
 * Taylor K. Dunivin and Ashley Shade. Investigation of arsenic and antibiotic resistance gene co-selection over a long term stressor. EDAR Conference. 13-17 August 2017. East Lansing, MI USA
 
 * Susanna Yeh, Taylor K. Dunivin,  Ashley Shade. Diversity and abundance of arsenic resistant genes in soil microbiomes. Mid-SURE. 26 July 2017. East Lanisng, MI USA
@@ -77,6 +70,8 @@ permalink: /CV/
 * Taylor K. Dunivin, Ashley Shade. The diversity of microbial arsenic resistance mechanisms from soil impacted by an ongoing coalmine fire. ISME Conference. 21-26 August 2016. Montreal, QC Canada
 
 * Taylor K. Dunivin, John Chodkowski, Jackson W. Sorensen, Ashley Shade. Microbial community arsenic tolerance and the fate of arsenic in soil. Microbiology and molecular genetics 2nd year poster session. 26 April 2016. East Lansing, MI USA
+
+* Justine M. Miller, Tayor K. Dunivin, Ashley Shade. Identification and characterization of arsenic resistant bacteria from an underground coal mine fire in Centralia, PA. UURAF. 27 July 2016. East Lansing, MI USA
 
 * Taylor K. Dunivin, John Chodkowski, Jackson W. Sorensen, Ashley Shade. Microbial community arsenic tolerance and the fate of arsenic in soil. Argonne Soil Metagenomics Meeting. 21-23 October 2015. Lisle, IL USA
 
