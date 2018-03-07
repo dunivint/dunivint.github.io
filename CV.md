@@ -97,6 +97,7 @@ permalink: /CV/
 *	Universitsy Honors – University of Michigan,						                       _2011-2012_
 
 ## __Service Experience__
+* MMG Faculty meeting representative – Michigan State University, East Lansing, MI, _Fall 2017 - present_ 
 * ScienceDebate.org student group leader - East Lansing, MI,          		         _2017-present_
 * Reviewer for mSystems
 * Reviewer for Environmental Science and Technology
