@@ -15,5 +15,6 @@ permalink: /portfolio/
 * [Interview: Rita Loch-Caruso](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
 
 ## Tutorials
-* [Plotting graphs in R](https://github.com/dunivint/ggplot2_tutorial/blob/master/GSW_tutorial.md)
+* [Introductory R](https://github.com/edamame-course/2018-Tutorials/blob/master/Intro_R_RStudio/R_tutorial.md)
+* [Plotting graphs in R](https://github.com/edamame-course/2018-Tutorials/blob/master/data_visualization/data_visualization_tutorial.md)
 * [Gene-targeted metagenome assembly](https://github.com/edamame-course/Xander/blob/master/Xander.md)
