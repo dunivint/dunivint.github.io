@@ -11,7 +11,7 @@ __Speaker RLadies – Fall 2018__: I gave a quick presentation at an RLadies eve
 
 <br>
 
-<img src="{{ site.baseurl }}/assets/bioontap.jpg" title="Biology on Tap" class="gallery" align="center">  <br>        __Biology on Tap – Spring 2017__: I presented the science of Centralia, PA to a local crowd at Biology on Tap, Lansing with my colleague Jackson Sorensen. If you are interested in these events, please visit their [facebook page](https://www.facebook.com/BioOnTap/)!
+<img src="{{ site.baseurl }}/assets/bioontap.png" title="Biology on Tap" class="gallery" align="center">  <br>        __Biology on Tap – Spring 2017__: I presented the science of Centralia, PA to a local crowd at Biology on Tap, Lansing with my colleague Jackson Sorensen. If you are interested in these events, please visit their [facebook page](https://www.facebook.com/BioOnTap/)!
  
  <br>
 
