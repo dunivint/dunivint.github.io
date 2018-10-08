@@ -33,7 +33,9 @@ permalink: /CV/
 ## Publications
 * Taylor K Dunivin, Susanna Yeh, Ashley Shade. Targeting microbial arsenic resistance genes: A meta-analysis across soils. _In preparation_.
 
-* Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Ecological selection for small microbial genomes along a temperate-to-thermal soil gradient. _Submitted_. Preprint: [doi.org/10.1101/276584](doi.org/10.1101/276584)
+* Taylor K Dunivin, Jin Choi, Adina C Howe, Ashley Shade. 2018. RefSoil+: A reference for antimicrobial resistance genes on soil plasmids. _In review_. Preprint: [doi.org/10.1101/435107](https://doi.org/10.1101/435107 )
+
+* Jackson W Sorensen, Taylor K Dunivin, Tammy C Tobin, Ashley Shade. Ecological selection for small microbial genomes along a temperate-to-thermal soil gradient. _In press_. _Nature Microbiology_. Preprint: [doi.org/10.1101/276584](doi.org/10.1101/276584)
 
 * Taylor K Dunivin and Ashley Shade. Antibiotic resistance genes over a long-term thermal stressor. FEMS Microbiology Ecology.  [doi.org/10.1093/femsec/fiy016](doi.org/10.1093/femsec/fiy016).
 
@@ -47,7 +49,13 @@ permalink: /CV/
 
 
 ## __Oral Presentations__
-* Taylor K Dunivin. A meta-analysis of microbial arsenic resistance genes across soils. WiPS. 12 February 2018. East Lansing, MI, USA
+* Taylor K. Dunivin. RefSoil+ provides insights into antimicrobial resistance genes on soil plasmids. 
+BioMolecular Science Seminar Series, 24 September 2018, East Lansing, MI USA
+
+* Taylor K. Dunivin, Susanna Yeh, Ashley Shade. Targeting microbial arsenic resistance genes: a meta-
+analysis across soils. Rapid fire talk, ASM Microbe. 8 June 2018, Atlanta, GA USA
+
+* Taylor K. Dunivin. A meta-analysis of microbial arsenic resistance genes across soils. WiPS. 12 February 2018. East Lansing, MI, USA
 
 * Taylor K Dunivin. The Ecology of Microbial Arsenic Resistance Genes Over a Long Term Stressor. BMS Retreat. 25 August 2017, East Lansing, MI USA
 
@@ -82,40 +90,44 @@ permalink: /CV/
 * J. Bursley, T. Dunivin, S. Umthong, J. W. Zagorski, A. E. Turley, H. E. Dover, C. E. Rockwell. Activation of Nrf2 by tBHQ upregulates IgM production by LPS-activated mouse splenocytes. The Society of Toxicology National Meeting. 22-26 March 2015. San Diego, CA USA 
 
 ## __Teaching Experience__
+*	EDAMAME workshop – Michigan State University, Kellogg Biological Station,          _2016 - 2018_
 * ACRES REU student mentor – Michigan State University, East Lansing, MI,			          _Summer 2017_
 *	Introductory Laboratory for Microbiology – Michigan State University,                _Spring 2017_
-*	EDAMAME workshop – Michigan State University, Kellogg Biological Station,          _July 2016_
 *	Laboratory in Genomics and Molecular Genetics – Michigan State University,        _Spring 2016_
 *	Undergraduate student mentor – Michigan State University, 		          _2015-2016_
 
 ## __Honors and Awards__
+*	NIH BEST Scholar,									                       _2015-Present_
+* Environmental Toxicology travel award, _Summer 2018_
+* Russell B DuVall Fellowship, _Fall 2018_
 *	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology,	                                    _Fall 2017_
 *	Ronald M. and Sharon Rogowski fellowship for Food Safety and Toxicology,	                                    _Summer 2016_
 *	Gerhardt travel award,					  			                       _Summer 2016_
-*	NIH BEST Scholar,									                       _2015-Present_
 *	Council of Graduate Students travel award,							          _Fall 2015_
 *	Universitsy Honors – University of Michigan,						                       _2011-2012_
 
 ## __Service Experience__
-* MMG Faculty meeting representative – Michigan State University, East Lansing, MI, _Fall 2017 - present_ 
-* ScienceDebate.org student group leader - East Lansing, MI,          		         _2017-present_
 * Reviewer for mSystems
 * Reviewer for Environmental Science and Technology
-*	EDAMAME course coordinator – Michigan State University, East Lansing, MI,          		         _2016-2017_
-*	Interviewer for CMSE candidate – Michigan State University, East Lansing, MI,                                _February 2017_
-*	Guide for BMS recruitment – Michigan State University, East Lansing MI,                                        _2015-2017_
-*	New student Mentor – BMS, Michigan State University, East Lansing MI,                                            _August 2016_
-*	Judge for mid-SURE poster session – Michigan State University, East Lansing, MI,		         _July 2016_
-*	Panelist: Grad school or Med school? – Michigan State University, East Lansing, MI,                     _April 2016_
-*	Judge for URAF poster session – Michigan State University, East Lansing, MI,			         _May 2015_
+* Co-leader – Science Debate MSU Chapter student group  - East Lansing, MI,          		         _2017-present_
+* Representative – MMG Faculty meeting, Michigan State University, East Lansing, MI, _Fall 2017 - present_ 
+*	Course coordinator – EDAMAME workshop, Michigan State University, East Lansing, MI,          		         _2016-2017_
+*	Interviewer – CMSE faculty candidate, Michigan State University, East Lansing, MI,                                _February 2017_
+*	Guide – BMS recruitment, Michigan State University, East Lansing MI,                                        _2015-2017_
+*	Mentor – BMS, Michigan State University, East Lansing MI,                                            _August 2016_
+*	Judge – mid-SURE poster session, Michigan State University, East Lansing, MI,		         _July 2016_
+*	Panelist – Grad school or Med school, Michigan State University, East Lansing, MI,                     _April 2016_
+*	Judge – URAF poster session – Michigan State University, East Lansing, MI,			         _May 2015_
 
 ## __Outreach Experience__
-* Co-author of iCER Research Highlights - East Lansing, MI,							          _May 2017_
+* Speaker – East Laninsg RLadies event, _Fall 2018_
+* Author – ScienceDebate.org newsletter, _Winter 2017_
+* Co-author – iCER Research Highlights - East Lansing, MI,							          _May 2017_
 *	Invited Speaker – Biology on Tap, Lansing, MI,							          _February 2017_
-*	Mentor and scientific career advisor – Scollegiate College Prep and Tutoring,	          _July 2016_
+*	Mentor – Scollegiate College Prep and Tutoring,	          _July 2016_
 *	Presenter – Science Festival, East Lansing, MI,							          _April 2016_
-*	Director/ Publisher of research video – GreatLakesEcho.org,      _April 2015_
-*	Chaired Food Sustainability Committee – University of Michigan, Ann Arbor, MI,		          _2012-2014_
+*	Director – research video for GreatLakesEcho.org,      _April 2015_
+*	Chair – Food Sustainability Committee – University of Michigan, Ann Arbor, MI,		          _2012-2014_
 
 
 
