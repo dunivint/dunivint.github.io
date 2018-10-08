@@ -11,7 +11,10 @@ __Speaker RLadies – Fall 2018__: I gave a quick presentation at an RLadies eve
 
 <br>
 
+<img src="{{ site.baseurl }}/assets/bioontap.jpg" title="Biology on Tap" class="gallery" align="center">  <br>        __Biology on Tap – Spring 2017__: I presented the science of Centralia, PA to a local crowd at Biology on Tap, Lansing with my colleague Jackson Sorensen. If you are interested in these events, please visit their [facebook page](https://www.facebook.com/BioOnTap/)!
+ 
+ <br>
 
- <img src="{{ site.baseurl }}/assets/scifest_2016.jpg" title="Science Festival" class="gallery" align="center">  <br>        __Science Festival – Spring 2016__: The Shade Lab had a booth for the MSU Science Festival titled "Delicious Microbes!" We had several fun activities to teach kids about how microbes are involved in food such as yogurt, sourdough bread, kimchi, and much more! 
+ <img src="{{ site.baseurl }}/assets/scifest_2016.jpg" title="Science Festival" class="gallery" align="center">  <br>        __Science Festival – Spring 2016__: The Shade Lab had a booth for the MSU Science Festival titled "Delicious Microbes!" We had several fun activities to teach kids about how microbes are involved in food such as yogurt, sourdough bread, kimchi, and much more! If you want to be involved in MSU Science Festival, visit [sciencefestival.msu.edu](https://sciencefestival.msu.edu/) for more information!
  
  <br>
