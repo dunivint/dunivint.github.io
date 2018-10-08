@@ -10,9 +10,6 @@ permalink: /portfolio/
 * [Newsletter: ScienceDebate.org](http://www3.thedatabank.com/dpg/335/pm.asp?ID=66529&Publication=Science+Debate+e%2DPublications)
 * [Presentation: Biology on Tap](https://www.slideshare.net/secret/yhwSed5SxXFHE7)
 
-## Writing samples
-* [Technical: Antibiotic and arsenic resistance gene co-selection over a long-term stressor](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/tree/master/assets/technical.pdf)
-* [Interview: Rita Loch-Caruso](http://nbviewer.jupyter.org/github/dunivint/dunivint.github.io/tree/master/assets/interview.pdf)
 
 ## Tutorials
 * [Introductory R](https://github.com/edamame-course/2018-Tutorials/blob/master/Intro_R_RStudio/R_tutorial.md)
