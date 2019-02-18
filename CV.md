@@ -10,11 +10,9 @@ permalink: /CV/
 * Michigan State University, East Lansing, Michigan,			                                               _2014-Present_
   * Graduate program in Microbiology and Molecular Genetics
   * Graduate program in Environmental and Integrative Toxicological Sciences
-  * Cumulative GPA: 3.94
 
 * University of Michigan, Ann Arbor, Michigan,	 	                                    _2010-2014_
   * Bachelor of Science in Biology, minor in Environmental Science
-  * Cumulative GPA: 3.69
 
 
 ## __Research Experience__
